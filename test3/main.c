@@ -1,1 +1,9 @@
-function.c
+main.c
+sss
+{
+dsfe
+d
+d}
+
+	{
+dprinthello}
